@@ -1,7 +1,7 @@
 root {
-    text-decoration-color: black;
-    link-color: blue;
-    background-color: aqua;
+    text-decoration-color:white;
+    lighting-color: blue;
+    background-color:black;
 
 }
 
@@ -17,8 +17,8 @@ html {
 }
 body {
     font-family: 'poppins', Arial, Helvetica, sans-serif;
-    background-color: var(--background-color);
-
+    background-color: aqua;
+    
 }
 
 {
